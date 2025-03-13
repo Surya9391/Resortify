@@ -1,0 +1,22 @@
+export type RootStackParamList = {
+    Login: undefined;
+    onLogin: undefined;
+    Home: undefined;
+    MenuBar: undefined;
+    //openDrawer: undefined;  
+    MyProfileScreen: undefined;
+    Logout: undefined;  
+    Settings: undefined;
+    BinFillReminder: undefined;
+    RecycleTips: undefined;
+    AllbinLocator: undefined;
+    WasteCollection:undefined;
+    RecycleRate :undefined;
+    Graph :undefined;
+    About :undefined;
+    Contact :undefined;
+    BinDetails :undefined;
+    BarChart :undefined;
+    graphs : undefined;
+    onPress: undefined;
+  };
